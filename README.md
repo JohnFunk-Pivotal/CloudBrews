@@ -1,6 +1,6 @@
 # CloudBrews
 
-Here are the exercises for the event
+##Here are the exercises for the event
 
 https://github.com/JohnFunk-Pivotal/CloudBrews-SpringBoot
 
@@ -9,12 +9,14 @@ https://github.com/JohnFunk-Pivotal/CloudBrews-SpringDataRest
 https://github.com/JohnFunk-Pivotal/CloudBrews-SampleApp
 
 https://github.com/JohnFunk-Pivotal/CloudBrews-SpringCloudServices
-
+----
+##Docent / Guide Instructions:
+https://github.com/JohnFunk-Pivotal/CloudBrews-DocentInstructions
 
 
 
 -----------
-#TBD
+##TBD
 **SampleApp**  
   -[ ] need to provision a database for the CloudBrews environment. Our org is out of database instances
 **SpringCloudServices**  
