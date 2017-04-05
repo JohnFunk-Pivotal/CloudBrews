@@ -19,7 +19,7 @@ Build two microservices one that calls the other using a Circut Breaker
 https://github.com/JohnFunk-Pivotal/CloudBrews-SpringCloudServices
 
 ----
-##Docent / Guide / Helper Instructions:
+##Instructors Guide: / Guide / Helper Instructions:
 https://github.com/JohnFunk-Pivotal/CloudBrews-DocentInstructions
 
 
